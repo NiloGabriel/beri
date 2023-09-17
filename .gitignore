@@ -1,0 +1,11 @@
+__pycache__/
+/.idea/
+/berienv/
+/build/
+/dist/
+token.pickle
+token_drive.pickle
+*.pickle
+*.pyc
+*.exe
+*.spec
